@@ -87,14 +87,6 @@ pip install -r requirements.txt
 python server/server.py
 ```
 
----
-
-## 📸 Demo
-
-*Add screenshots or a demo video here*
-
----
-
 ## 📊 Model Performance
 
 * Accuracy: XX%
@@ -131,5 +123,6 @@ AI & Machine Learning Developer
 ## ⭐ Acknowledgements
 
 * Open-source libraries and tools used in this project
+* code basics.io
 * Inspiration from real-world AI applications
 
