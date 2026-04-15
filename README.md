@@ -1,5 +1,7 @@
-##Add Banner Image
-<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/96ef7261-53f5-4e7a-af19-57fbbf74ba03" />
+
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/banner-image.png?raw=true" alt="Face Detection AI App Banner" width="100%">
+</p>
 
 # 🤖 AI-Powered Face Detection & Classification System
 
