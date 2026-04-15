@@ -1,3 +1,6 @@
+##Add Banner Image
+<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/96ef7261-53f5-4e7a-af19-57fbbf74ba03" />
+
 # 🤖 AI-Powered Face Detection & Classification System
 
 An intelligent computer vision application that detects and classifies human faces in real time using Machine Learning and Deep Learning techniques.
