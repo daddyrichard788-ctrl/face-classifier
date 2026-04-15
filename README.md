@@ -1,7 +1,5 @@
+<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/3218195e-4c1f-4be3-b425-c165f34af46f" />
 
-<p align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/banner-image.png?raw=true" alt="Face Detection AI App Banner" width="100%">
-</p>
 
 # 🤖 AI-Powered Face Detection & Classification System
 
